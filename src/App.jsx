@@ -32,7 +32,7 @@ function TodoList() {
 
   return (
     <div 
-      className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-500 via-pink-500 to-red-500 p-4"
+      className="min-h-screen flex items-center justify-center bg-gradient-to-br  p-4"
     >
       <div className="todo-container w-full max-w-md bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl border border-white/30 overflow-hidden">
         <div className="bg-gradient-to-r from-purple-600 to-pink-600 p-6 text-center">
