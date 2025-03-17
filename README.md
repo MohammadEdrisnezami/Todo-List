@@ -1,4 +1,5 @@
 # Todo List
+![Todo List Preview](public/todoImage.png)
 
 This is a simple Todo List application built with React and Tailwind CSS.
 
